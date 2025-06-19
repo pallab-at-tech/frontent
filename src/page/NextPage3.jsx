@@ -41,7 +41,7 @@ const NextPage3 = () => {
     return (
         <div>
 
-            <div className="min-h-screen bg-bg text-[#2b2b2b] p-6 xl:p-10 font-sans mx-20">
+            <div className="min-h-screen bg-bg text-[#2b2b2b] p-6 xl:p-10 font-sans lg:mx-20">
                 
                 <div className="flex flex-col xl:flex-row gap-8">
                     
